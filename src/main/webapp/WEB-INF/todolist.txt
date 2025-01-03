@@ -1,0 +1,17 @@
+meLogin=myCafe.login.controller.LoginController
+meSignUp=myCafe.login.controller.SignUpController
+meLogout=myCafe.login.controller.LogoutController
+meDelete=myCafe.login.controller.DeleteController
+meUpdate=myCafe.login.controller.UpdateController
+meList=myCafe.common.controller.ListController
+myPage=myCafe.common.controller.MyPageController
+menuInsert=myCafe.memu.controller.MenuInsertController
+menuList=myCafe.memu.controller.MenuListController
+menuDetailView=myCafe.memu.controller.MenuDetailViewController
+menuUpdate=myCafe.memu.controller.MenuUpdateController
+menuDelete=myCafe.memu.controller.MenuDeleteController
+orderInsert=myCafe.order.controller.OrderInsertController
+orderPage=myCafe.order.controller.OrderPageController
+orderPayment=myCafe.order.controller.OrderPaymentController
+orderDelete=myCafe.order.controller.OrderDeleteController
+orderDeleteAll=myCafe.order.controller.OrderDeleteAllController
